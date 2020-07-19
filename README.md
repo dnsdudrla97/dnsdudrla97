@@ -1,4 +1,4 @@
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8c136996-bef7-4ef9-acf0-1bbfc371735a/github_banner.png](img/github_banner.png)
+![github_banner](img/github_banner.png)
 
 ## Younsle—@dnsdudrla97
 
