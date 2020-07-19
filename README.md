@@ -1,5 +1,5 @@
 
-<img src="./img/github_banner.png"> 
+<img src="./img/github_banner.png" width=60> 
 
 ## Younsle—@dnsdudrla97
 
