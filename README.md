@@ -1,21 +1,15 @@
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8c136996-bef7-4ef9-acf0-1bbfc371735a/github_banner.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8c136996-bef7-4ef9-acf0-1bbfc371735a/github_banner.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8c136996-bef7-4ef9-acf0-1bbfc371735a/github_banner.png](img/github_banner.png)
 
 ## Younsle—@dnsdudrla97
-
----
 
 Hi I am Younsle ❤ I'm preparing for the CTF competition, so I mainly study hacking such as binary analysis, reversing, and network. 😀😀
 
 ### My values
-
----
-
 1. Principle grasp and curiosity 🥽
 2. Common understanding and agreement 🙌
 3. Safe hacking and trust 👽
 4. Expressed as a true self 💓
 
 ### Get in touch
-
 - Twitter : [https://twitter.com/Younsle1](https://twitter.com/Younsle1)
 - Personal Site : [https://dnsdudrla97.github.io/](https://dnsdudrla97.github.io/)
