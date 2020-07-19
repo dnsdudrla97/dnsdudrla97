@@ -1,4 +1,4 @@
-![github_banner](img/github_banner.png)
+![banner](./img/github_banner.png)
 
 ## Younsle—@dnsdudrla97
 
