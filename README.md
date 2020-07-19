@@ -1,16 +1,21 @@
-### Hi there 👋
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8c136996-bef7-4ef9-acf0-1bbfc371735a/github_banner.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8c136996-bef7-4ef9-acf0-1bbfc371735a/github_banner.png)
 
-<!--
-**dnsdudrla97/dnsdudrla97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Younsle—@dnsdudrla97
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi I am Younsle ❤ I'm preparing for the CTF competition, so I mainly study hacking such as binary analysis, reversing, and network. 😀😀
+
+### My values
+
+---
+
+1. Principle grasp and curiosity 🥽
+2. Common understanding and agreement 🙌
+3. Safe hacking and trust 👽
+4. Expressed as a true self 💓
+
+### Get in touch
+
+- Twitter : [https://twitter.com/Younsle1](https://twitter.com/Younsle1)
+- Personal Site : [https://dnsdudrla97.github.io/](https://dnsdudrla97.github.io/)
