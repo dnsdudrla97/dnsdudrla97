@@ -1,5 +1,6 @@
 
 <img src="./img/github_banner.png" width=60> 
+<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
 
 ## Younsle—@dnsdudrla97
 
