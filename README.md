@@ -18,11 +18,7 @@ Hi I am Younsle ❤ I'm preparing for the CTF competition, so I mainly study hac
 4. Expressed as a true self 💓
 
 ### Stats
-|![Younsle's github stats](https://github-readme-stats.vercel.app/api?username=dnsdudrla97&show_icons=true&theme=dracula) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnsdudrla97)](https://github.com/dnsdudrla97/github-readme-stats) |
-|:---:||:---:|
-
-### Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnsdudrla97)](https://github.com/dnsdudrla97/github-readme-stats)
+![Younsle's github stats](https://github-readme-stats.vercel.app/api?username=dnsdudrla97&show_icons=true&theme=dracula)
 
 ### Get in touch
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/dnsdudrla97)
