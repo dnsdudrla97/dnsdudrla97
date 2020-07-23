@@ -7,9 +7,8 @@
      <img src="https://octodex.github.com/images/carlostocat.gif" width=100>
      <img src="https://github.com/dnsdudrla97/dnsdudrla97/blob/master/img/mona-whisper.gif" width=100>
 </p>
-                                                                                         
-## Younsle—@dnsdudrla97
 
+## Younsle—@dnsdudrla97
 Hi I am Younsle ❤ I'm preparing for the CTF competition, so I mainly study hacking such as binary analysis, reversing, and network. 😀😀
 
 ### My values
@@ -18,6 +17,14 @@ Hi I am Younsle ❤ I'm preparing for the CTF competition, so I mainly study hac
 3. Safe hacking and trust 👽
 4. Expressed as a true self 💓
 
+### Stats
+|![Younsle's github stats](https://github-readme-stats.vercel.app/api?username=dnsdudrla97&show_icons=true&theme=dracula) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnsdudrla97)](https://github.com/dnsdudrla97/github-readme-stats) |
+|:---:||:---:|
+
+### Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnsdudrla97)](https://github.com/dnsdudrla97/github-readme-stats)
+
 ### Get in touch
-- Twitter : [https://twitter.com/Younsle1](https://twitter.com/Younsle1)
-- Personal Site : [https://dnsdudrla97.github.io/](https://dnsdudrla97.github.io/)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/dnsdudrla97)
+[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Younsle1)](https://twitter.com/Younsle1)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kyw9710@@gmail.com)
