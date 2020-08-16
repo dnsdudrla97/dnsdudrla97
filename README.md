@@ -1,15 +1,16 @@
 
 <img src="https://github.com/dnsdudrla97/dnsdudrla97/blob/master/img/github_banner2.png"> 
 
-<!-- <p align="center">
-     <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
+<p align="center">
+     <!-- <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
      <img src="https://octodex.github.com/images/maxtocat.gif" width=100>
      <img src="https://octodex.github.com/images/carlostocat.gif" width=100>
      <img src="https://github.com/dnsdudrla97/dnsdudrla97/blob/master/img/mona-whisper.gif" width=100>
-     
-</p> -->
+     -->
+     <img src="https://github.com/dnsdudrla97/dnsdudrla97/blob/master/img/dw.gif" width=400>     
+</p> 
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/rKXbXooKRaFWg" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+
 
 
 
