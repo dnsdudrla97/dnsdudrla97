@@ -1,5 +1,5 @@
 
-<img src="https://github.com/dnsdudrla97/dnsdudrla97/blob/master/img/github_banner2.png"> 
+<img src="https://github.com/dnsdudrla97/dnsdudrla97/blob/master/img/github_banner3.png"> 
 
 <p align="center">
      <!-- <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
