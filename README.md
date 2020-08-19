@@ -1,4 +1,4 @@
-
+                        
 <img src="https://github.com/dnsdudrla97/dnsdudrla97/blob/master/img/github_banner3.png"> 
 
 <p align="center">
@@ -31,3 +31,4 @@ Hi I am Younsle ❤ I'm preparing for the CTF competition, so I mainly study hac
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/dnsdudrla97)
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Younsle1)](https://twitter.com/Younsle1)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kyw9710@@gmail.com)
+<a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdnsdudrla97"/></a>   
