@@ -22,10 +22,6 @@ Hi I am Zer0Luck ❤ I'm preparing for the CTF competition, so I mainly study ha
 2. Common understanding and agreement 🙌
 3. Safe hacking and trust 👽
 4. Expressed as a true self 💓
-
-### Stats
-![Younsle's github stats](https://github-readme-stats.vercel.app/api?username=dnsdudrla97&show_icons=true&theme=dracula)
-
 ### Get in touch
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/dnsdudrla97)
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Younsle1)](https://twitter.com/Younsle1)
